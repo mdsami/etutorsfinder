@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "644490125688",
+    "firebase_url": "https://finding-tutors.firebaseio.com",
+    "project_id": "finding-tutors",
+    "storage_bucket": "finding-tutors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644490125688:android:770e67abdb65d54b",
+        "android_client_info": {
+          "package_name": "com.finalproject.app.findingtutors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644490125688-edems5ngkkubboasa01m0pl6mqtcprpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalproject.app.findingtutors",
+            "certificate_hash": "373fa5cc7bb122e7e54cca4a2602018eb2f5d48e"
+          }
+        },
+        {
+          "client_id": "644490125688-8fnjajchalj80hrcbqaksgop8cjceem1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsaqgKrc4GZNxLGlxuFPRKVhugMWu5UhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644490125688-8fnjajchalj80hrcbqaksgop8cjceem1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
